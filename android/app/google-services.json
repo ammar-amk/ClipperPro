@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152817967545",
+    "project_id": "clipperpro-be4b7",
+    "storage_bucket": "clipperpro-be4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152817967545:android:ec1fd108437a2ab2759668",
+        "android_client_info": {
+          "package_name": "com.example.clipper_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152817967545-1r5k766rafqrs9tam199jhmfo3o2tgeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1wgTFUTun3T2hAVCDqYTC5xkMayi3Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152817967545-1r5k766rafqrs9tam199jhmfo3o2tgeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
